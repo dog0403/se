@@ -3,7 +3,7 @@ package why.lab2;
 import java.sql.*;
 
 public class JDBC_Test {
-	// 创建静态全局变量
+	// 创建静态全局变量why
 	 Connection conn;
 
 	 Statement st;
